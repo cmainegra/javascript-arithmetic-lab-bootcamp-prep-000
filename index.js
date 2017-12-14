@@ -20,5 +20,5 @@ function makeInt(n) {
   return `parseInt('iuowqieu')`
 }
 function makeInt(n) {
-  return `toEqual(true)`
+  return `toEqual(0)`
 }
