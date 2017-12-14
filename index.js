@@ -9,12 +9,12 @@ function divide(a,b) {
 function inc(n) {
   var number = n++ 
   return n }
-function dec(n) {
-  var number = n-- 
-  return n }
-function parseInt(n) {
-  return parseInt(n) }
-function preserveDecimal(n) {
-  return parseFloat(n) }
-function makeInt(n) {
+function dec(a) {
+  var number = a-- 
+  return a }
+function parseInt(a) {
+  return parseInt(a) }
+function preserveDecimal(a) {
+  return parseFloat(a) }
+function makeInt(a) {
   return `toString(n)` }
