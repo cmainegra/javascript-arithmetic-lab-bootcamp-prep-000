@@ -13,6 +13,6 @@ function dec(n) {
   var number = n-- 
   return n }
 function parseInt(n) {
-  return n }
+  return parseInt(n) }
 function preserveDecimal(n) {
-  return n }
+  return parseFloat(n) }
