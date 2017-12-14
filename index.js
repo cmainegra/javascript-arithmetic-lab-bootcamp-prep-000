@@ -12,7 +12,7 @@ function inc(n) {
 function dec(a) {
   var number = a-- 
   return a }
-function parseInt(a) {
+function makeInt(a) {
   return parseInt(a) }
 function preserveDecimal(a) {
   return parseFloat(a) }
