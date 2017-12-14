@@ -18,4 +18,4 @@ function preserveDecimal(a) {
   return parseFloat(a) }
 function makeInt(a) {
   return `toString(a)`
-  return a = 0}
+}
