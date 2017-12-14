@@ -12,7 +12,7 @@ function inc(n) {
 function dec(a) {
   var number = a-- 
   return a }
-function makeInt(a) {
+function makeInt(a, 10) {
   return parseInt(a) 
   return `tosString(a)`
   return parseInt(a, 10)
