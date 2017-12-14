@@ -17,5 +17,4 @@ function makeInt(a) {
 function preserveDecimal(a) {
   return parseFloat(a) }
 function makeInt(a) {
-  return `toString(a)`
-}
+  return `toString(a)` }
