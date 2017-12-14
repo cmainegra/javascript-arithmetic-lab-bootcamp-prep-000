@@ -17,7 +17,7 @@ function parseInt(n) {
 function preserveDecimal(n) {
   return parseFloat(n) }
 function makeInt(n) {
-  return `toString('iuowqieu')`
+  return `parseInt('iuowqieu')`
 }
 function makeInt(n) {
   return `toEqual(true)`
