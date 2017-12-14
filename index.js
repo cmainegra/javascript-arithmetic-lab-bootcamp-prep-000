@@ -19,5 +19,5 @@ function preserveDecimal(n) {
 function makeInt(n) {
   return `toString(n)`
   return isNaN(n) 
-  return 
+  return `makeInt(0)`
 }
