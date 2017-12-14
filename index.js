@@ -13,8 +13,8 @@ function dec(a) {
   var number = a-- 
   return a }
 function makeInt(a) {
-  return parseInt(a) }
+  return parseInt(a) 
+  return `tosString(a)`
+}
 function preserveDecimal(a) {
   return parseFloat(a) }
-function makeInt(a) {
-  return `toString(a)` }
