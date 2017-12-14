@@ -17,8 +17,11 @@ function parseInt(n) {
 function preserveDecimal(n) {
   return parseFloat(n) }
 function makeInt(n) {
-  return `.toString(n)`
-  return `.toEqual(n)`
-  return `.toEqual(n)`
+  return `toString(n)`
 }
-  
+function makeInt(n) {
+  return `toString(n)`
+}
+function makeInt(n) {
+  return 
+}
