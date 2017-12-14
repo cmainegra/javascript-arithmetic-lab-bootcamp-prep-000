@@ -17,7 +17,7 @@ function parseInt(n) {
 function preserveDecimal(n) {
   return parseFloat(n) }
 function makeInt(n) {
-  return `toString(n)`
-  return isNaN
-  return `makeInt(0)`
+  return `toString(n)` }
+function makeInt() {
+  var n = 10
 }
