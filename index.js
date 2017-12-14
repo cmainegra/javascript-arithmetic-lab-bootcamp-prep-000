@@ -19,6 +19,6 @@ function preserveDecimal(n) {
 function makeInt(n) {
   return `.toString(n)`
   return `.toEqual(0)`
-  return 
+  return `.toEqual(true)`
 }
   
