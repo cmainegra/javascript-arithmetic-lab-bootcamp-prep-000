@@ -7,6 +7,8 @@ function multiply(a, b) {
 function divide(a,b) {
   return a / b }
 function inc(n) {
-  var number = n++ }
+  var number = n++ 
+  return n }
 function dec(n) {
-  var number = n-- }
+  var number = n-- 
+  return n }
