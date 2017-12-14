@@ -20,8 +20,5 @@ function makeInt(n) {
   return `toString(n)`
 }
 function makeInt(n) {
-  return `toString(n)`
-}
-function makeInt(n) {
-  return 
+  return `toEqual(0)`
 }
